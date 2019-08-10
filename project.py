@@ -6,6 +6,7 @@ wining_score=3
 
 while(player_wins < wining_score and computer_wins < wining_score):
     print(f"Player Score: {player_wins} Computer Score: {computer_wins}")
+    print("WELCOME FOR ROCK-PAPER-SCISSOR")
     print("Rock....")
     print("Paper....")
     print("Scissors...")
